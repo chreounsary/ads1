@@ -9,7 +9,7 @@ export default function Document() {
       <meta name="description" content=""></meta>
       <meta property="og:title" content=""></meta>
       <meta property="og:description" content=""></meta>
-      <meta property="og:url" content="https://scitonpages.vercel.app/detecting-an-underwater-ghost-city-in-the-heart-of-an-84000-year-old-crater-thuhien"></meta>
+      {/* <meta property="og:url" content="https://scitonpages.vercel.app/detecting-an-underwater-ghost-city-in-the-heart-of-an-84000-year-old-crater-thuhien"></meta> */}
       <meta property="og:image" content="https://sciton.info/wp-content/uploads/2023/02/97.jpeg"></meta>
       <Head />
       <body>
