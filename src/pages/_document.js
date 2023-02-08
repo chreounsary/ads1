@@ -10,7 +10,7 @@ export default function Document() {
       <meta property="og:title" content=""></meta>
       <meta property="og:description" content=""></meta>
       <meta property="og:image" content="https://sciton.info/wp-content/uploads/2023/02/97.jpeg"></meta>
-      <Head />
+      {/* <Head /> */}
       <body>
         <Main />
         <NextScript />
