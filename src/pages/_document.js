@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang="en">
       <meta property="og:locale" content="en_US"></meta>
       <meta property="og:type" content="article"></meta>
+      <meta property="og:site_name" content="ads1-eight.vercel.app/"></meta>
       <meta name="description" content=""></meta>
       <meta property="og:title" content=""></meta>
       <meta property="og:description" content=""></meta>
