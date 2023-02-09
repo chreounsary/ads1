@@ -9,7 +9,6 @@ export default function Home() {
   return (
     <>
       <Head>
-      <title>hello</title>
       <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width"/>
@@ -20,7 +19,7 @@ export default function Home() {
       <meta property="og:locale" content="en_US"/>
       <meta property="og:type" content="article"/>
       <meta name="description" content=""/>
-      <meta property="og:title" content=""/>
+      <meta property="og:title" content="hello"/>
       <meta property="og:description" content=""/>
       <meta property="og:image" content="https://sciton.info/wp-content/uploads/2023/02/97.jpeg"/>
       <link rel="preload" href="/_next/static/media/2aaf0723e720e8b9.p.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
