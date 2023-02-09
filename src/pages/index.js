@@ -9,6 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
+      <title>hello</title>
       <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width"/>
