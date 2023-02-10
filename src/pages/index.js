@@ -20,7 +20,7 @@ export default function Home() {
         <meta name="twitter:card" content="summary_large_image"/>
         <meta property="twitter:domain" content="ads1-eight.vercel.app"/>
         <meta property="twitter:url" content="https://ads1-eight.vercel.app"/>
-        <meta name="twitter:title" content="hello"/>
+        <meta name="twitter:title" content="undefined"/>
         <meta name="twitter:description" content="undefined"/>
         <meta name="twitter:image" content="https://sciton.info/wp-content/uploads/2023/02/97.jpeg"/>
         </Head>
