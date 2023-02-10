@@ -12,7 +12,7 @@ export default function Home() {
         <meta name="description" content="undefined"/>
         <meta property="og:url" content="https://ads1-eight.vercel.app"/>
         <meta property="og:type" content="website"/>
-        <meta property="og:title" content="hello"/>
+        <meta property="og:title" content="undefined"/>
         <meta property="og:description" content="undefined"/>
         <meta property="og:image" content="https://sciton.info/wp-content/uploads/2023/02/97.jpeg"/>
 
